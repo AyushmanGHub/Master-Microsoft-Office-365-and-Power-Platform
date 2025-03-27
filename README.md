@@ -1,4 +1,4 @@
-# Master-Microsoft-Office-365-and-Power-Platform
+# Master Microsoft Office 365 and Power Platform
 
 ---
 ## Hope it Helps you in Microsoft Tools
