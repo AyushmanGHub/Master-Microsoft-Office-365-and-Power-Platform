@@ -2,6 +2,13 @@
 
 [🔗 View on Coursera](https://www.coursera.org/specializations/master-microsoft-office-365-power-platform)
 
+## 📘 About the Specialization
+
+The **Master Microsoft Office 365 and Power Platform Specialization** on Coursera is a comprehensive program designed to build practical expertise in Microsoft's most powerful productivity and low-code tools. This 8-course series guides learners through Office 365 apps like Excel, Word, PowerPoint, and Teams, as well as the Power Platform tools—Power BI, Power Automate, and Power Apps.
+
+By the end of this specialization, learners are equipped to create data visualizations, automate workflows, build custom apps, and collaborate more effectively in digital environments.
+
+
 ---
 ### 🛠️ What's Included:
 - 📚 **Course Materials**  
