@@ -9,7 +9,15 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 ---
-
+### Course 04. 📽️ Master Microsoft PowerPoint
+**Topics Covered:**
+- Slide Creation and Design Basics
+- Formatting Slides and Layouts
+- Using Charts, Tables, and SmartArt
+- Animations and Transitions
+- Multimedia Integration (Audio, Video)
+- Presenting and Sharing Decks
+- Design Best Practices
 
 ### Course 05. 💬 Master Microsoft Teams
 **Topics Covered:**
