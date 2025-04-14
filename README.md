@@ -9,6 +9,18 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 
+
+### Course 08. 📱 Master Microsoft Power Apps
+**Topics Covered:**
+- Building Canvas Apps from Scratch
+- Working with Controls, Forms, and Galleries
+- Connecting to SharePoint, Excel, and Dataverse
+- Using Formulas and Logic in Apps
+- App Deployment and Sharing
+- Real-World Business Use Cases
+
+
+
 All content and resources are created and provided by Microsoft and are also accessible directly on the Coursera platform.
 
 ## 🙌 Why This Specialization?
