@@ -9,6 +9,17 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 ---
+
+### Course 03. 📝 Master Microsoft Word
+**Topics Covered:**
+- Word Interface and Document Setup
+- Text Formatting and Styles
+- Inserting Tables, Images, and Graphics
+- Page Layout and Sections
+- Creating Templates
+- Collaboration Tools and Track Changes
+- Mail Merge Basics
+
 ### Course 04. 📽️ Master Microsoft PowerPoint
 **Topics Covered:**
 - Slide Creation and Design Basics
