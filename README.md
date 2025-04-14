@@ -9,7 +9,16 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 ---
-
+### Course 02. 📊 Master Microsoft Excel
+**Topics Covered:**
+- Excel Interface and Core Functions
+- Formulas and Functions (SUM, IF, VLOOKUP, etc.)
+- Sorting, Filtering, and Data Cleaning
+- Creating Charts and Visuals
+- PivotTables and PivotCharts
+- Conditional Formatting
+- Intro to Macros and Basic Automation
+  
 ### Course 03. 📝 Master Microsoft Word
 **Topics Covered:**
 - Word Interface and Document Setup
