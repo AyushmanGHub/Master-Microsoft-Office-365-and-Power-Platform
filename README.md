@@ -9,6 +9,18 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 ---
+
+
+### Couse 01. 🚀 Boost Your Productivity with Microsoft Office 365
+**Topics Covered:**
+- Introduction to Microsoft 365 and the Cloud
+- Navigating the Microsoft 365 Interface
+- Using Outlook for Email and Calendar
+- OneDrive Basics: Storing and Sharing Files
+- Introduction to Microsoft Teams
+- Collaborating with SharePoint
+- Productivity Best Practices
+
 ### Course 02. 📊 Master Microsoft Excel
 **Topics Covered:**
 - Excel Interface and Core Functions
