@@ -8,7 +8,15 @@
 - ✅ **Assignments and Practice Exercises**  
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
-
+---
+### Course 07. 🔁 Master Microsoft Power Automate
+**Topics Covered:**
+- Creating Automated, Instant, and Scheduled Flows
+- Using Connectors and Triggers
+- Applying Conditions, Loops, and Logic
+- Integrating with Outlook, Teams, SharePoint, Excel
+- Error Handling and Flow Testing
+- Real-Life Automation Examples
 
 ### Course 08. 📱 Master Microsoft Power Apps
 **Topics Covered:**
