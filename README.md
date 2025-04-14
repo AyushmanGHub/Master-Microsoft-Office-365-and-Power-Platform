@@ -9,6 +9,16 @@
 - 📊 **Sample Datasets**  
 - 📝 **Class Notes and Summaries**  
 ---
+
+### Course 06. 📈 Master Microsoft Power BI
+**Topics Covered:**
+- Introduction to Power BI and Its Interface
+- Connecting and Transforming Data
+- Creating Data Models and Relationships
+- Building Visuals and Interactive Dashboards
+- Filters and Slicers
+- Publishing Reports and Collaboration Tools
+
 ### Course 07. 🔁 Master Microsoft Power Automate
 **Topics Covered:**
 - Creating Automated, Instant, and Scheduled Flows
