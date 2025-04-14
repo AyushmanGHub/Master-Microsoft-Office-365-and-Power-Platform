@@ -9,7 +9,17 @@ The **Master Microsoft Office 365 and Power Platform Specialization** on Courser
 By the end of this specialization, learners are equipped to create data visualizations, automate workflows, build custom apps, and collaborate more effectively in digital environments.
 
 
----
+## 🛠️ Skills Gained
+
+- Proficient use of Microsoft 365 tools: Excel, Word, PowerPoint, Outlook, Teams, SharePoint
+- Data analysis and dashboard creation using **Power BI**
+- Business process automation with **Power Automate**
+- App development with **Power Apps** (low-code/no-code)
+- Team collaboration and remote productivity using **Microsoft Teams**
+- Document design, formatting, and presentation skills
+- Workflow optimization and data-driven decision making
+
+
 ### 🛠️ What's Included:
 - 📚 **Course Materials**  
 - ✅ **Assignments and Practice Exercises**  
