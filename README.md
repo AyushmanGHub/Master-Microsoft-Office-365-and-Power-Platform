@@ -10,6 +10,16 @@
 - 📝 **Class Notes and Summaries**  
 ---
 
+
+### Course 05. 💬 Master Microsoft Teams
+**Topics Covered:**
+- Setting Up Teams and Channels
+- Chat, Video Meetings, and Communication Tools
+- File Sharing and Real-Time Collaboration
+- Integration with Office 365 Apps
+- Permissions and Notifications
+- Workflow and Project Coordination
+
 ### Course 06. 📈 Master Microsoft Power BI
 **Topics Covered:**
 - Introduction to Power BI and Its Interface
